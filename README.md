@@ -32,10 +32,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  Building prospectio</h3>
-
-👉 Discover it here: [GitHub](https://github.com/prospectio-ai)
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
